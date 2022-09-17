@@ -3,8 +3,8 @@ get_yesterday <- function(){
   return(x)
 }
 
+#try to pull this comment to RStudio
 #git reset --hard "type the commit version"+
-#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
 
 library(usethis)
 ?use_github
