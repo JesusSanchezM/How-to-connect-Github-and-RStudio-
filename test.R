@@ -7,7 +7,5 @@ get_yesterday <- function(){
 #git reset --hard "type the commit version"+
 
 library(usethis)
-?use_github
-
 edit_r_environ()
-use_github(protocol='https', autho_token=Sys.)
+use_github(protocol='https', autho_token=Sys.getenv("GIT_PATH"))
