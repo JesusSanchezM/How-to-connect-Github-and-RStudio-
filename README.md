@@ -1,6 +1,6 @@
 # How to connect Github and Rstudio
 
-This is a guide about how to connect your RStudio profile with GitHub. All the commands have to be used in "console", except for the GITPATH. For a more detail explanation of how to create a new repository you must clic in order to watch the original YT video that helped me to connect those two softwares. 
+This is a guide about how to connect your RStudio profile with GitHub. All the commands have to be used in "console", except for the GITPATH. For a more detail explanation of how to create a new repository you must clic in the link below in order to watch the original YT video that helped me to connect those two softwares. 
 
 https://www.youtube.com/watch?v=kL6L2MNqPHg 
 
